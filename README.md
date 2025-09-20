@@ -13,3 +13,19 @@ The open-source version is expected to include:
 - Pretrained weights
 - Example datasets and usage instructions
 - Scripts for evaluation and reproduction of paper results
+
+
+📄 Reference
+If you find this work useful, please consider citing our paper:
+@article{fu2025ups,
+  title={UPS-HSG: Uncalibrated photometric stereo based on adaptive hybrid Spherical Gaussian},
+  author={Yangyu Fu, Yuze Yang, Jiahang Liu},
+  journal={Optics and Lasers in Engineering},
+  volume={195},
+  pages={109360},
+  year={2025},
+  publisher={Elsevier}
+}
+
+
+✨ Stay tuned — the code, pretrained models, and detailed documentation will be available here soon!
