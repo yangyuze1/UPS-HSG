@@ -17,6 +17,7 @@ The open-source version is expected to include:
 
 📄 Reference
 If you find this work useful, please consider citing our paper:
+```
 @article{fu2025ups,
   title={UPS-HSG: Uncalibrated photometric stereo based on adaptive hybrid Spherical Gaussian},
   author={Yangyu Fu, Yuze Yang, Jiahang Liu},
@@ -27,5 +28,6 @@ If you find this work useful, please consider citing our paper:
   publisher={Elsevier}
 }
 
+```
 
 ✨ Stay tuned — the code, pretrained models, and detailed documentation will be available here soon!
